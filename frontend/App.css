@@ -1,0 +1,24 @@
+.arttire {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.camera-input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  border: 1px solid #000;
+}
